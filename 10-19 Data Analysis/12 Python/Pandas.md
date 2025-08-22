@@ -147,14 +147,14 @@ df.pivot(index='id', columns='variable', values='value')
 # Stack / Unstack
 df.stack()
 df.unstack()
-
-🔗 String Operations
-
+```
+## 14. String Operations
+```python
 df['B'].str.upper()
 df['B'].str.contains('x')
 df['B'].str.replace('x', 'X')
 ```
-## 14. Exporting Data
+## 15. Exporting Data
 ```python
 df.to_csv("out.csv", index=False)
 df.to_excel("out.xlsx", sheet_name="Sheet1")
