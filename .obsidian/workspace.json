@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "08a963e8e9128d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "2019700666252b8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb2a0ade03ee218e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4eb368fbd84bce16",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5f7c277102f4a8a6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "bd0d5207eeb7abcc",
+    "type": "split",
+    "children": [
+      {
+        "id": "580b2f3861d31a25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bdebbdcc41aa6f79",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "10-19 Data Analysis/11 SQL/11 SQL.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 11 SQL"
+            }
+          },
+          {
+            "id": "8096fa320c4f75e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "10-19 Data Analysis/11 SQL/11 SQL.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 11 SQL"
+            }
+          },
+          {
+            "id": "662d98afb92f27ee",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "17788a1963b9924a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "10-19 Data Analysis/11 SQL/11 SQL.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 11 SQL"
+            }
+          },
+          {
+            "id": "9c44861f30119f71",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "homepage:Open homepage": false,
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "e7a7b303c61786dc",
+  "lastOpenFiles": [
+    "10-19 Data Analysis/11 SQL/11 SQL.md",
+    "20-29 Data Science/20-29 Data Science.md",
+    "20-29 Data Science/DA To DS.md",
+    "20-29 Data Science/21 Linear Regression/21 Linear Regression.md",
+    "00-09 Home/00-09 Home.md",
+    "10-19 Data Analysis/10-19 Data Analysis.md",
+    "10-19 Data Analysis/13 Power BI/13 Power BI.md",
+    "10-19 Data Analysis/13 Power BI",
+    "10-19 Data Analysis/12 Python/12 Python.md",
+    "10-19 Data Analysis/12 Python",
+    "10-19 Data Analysis/11 SQL",
+    "10-19 Data Analysis",
+    "00-09 Home/05 Template",
+    "00-09 Home/04 Media/04 Media.md",
+    "00-09 Home/04 Media",
+    "20-29 Data Science",
+    "Welcome/Welcome.md",
+    "00-09 Home",
+    "Welcome",
+    "Test.base",
+    "create a link.md",
+    "Untitled.canvas"
+  ]
+}
