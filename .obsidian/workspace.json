@@ -11,10 +11,14 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "10-19 Data Analysis/12 Python/Pandas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pandas"
             }
           }
         ]
@@ -179,15 +183,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "10-19 Data Analysis/12 Python/12 Python.md",
+    "10-19 Data Analysis/12 Python/Pandas.md",
     "10-19 Data Analysis/11 SQL/11 SQL.md",
-    "20-29 Data Science/20-29 Data Science.md",
     "20-29 Data Science/DA To DS.md",
+    "10-19 Data Analysis/13 Power BI/13 Power BI.md",
+    "20-29 Data Science/20-29 Data Science.md",
     "20-29 Data Science/21 Linear Regression/21 Linear Regression.md",
     "00-09 Home/00-09 Home.md",
     "10-19 Data Analysis/10-19 Data Analysis.md",
-    "10-19 Data Analysis/13 Power BI/13 Power BI.md",
     "10-19 Data Analysis/13 Power BI",
-    "10-19 Data Analysis/12 Python/12 Python.md",
     "10-19 Data Analysis/12 Python",
     "10-19 Data Analysis/11 SQL",
     "10-19 Data Analysis",

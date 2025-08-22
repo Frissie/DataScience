@@ -1,4 +1,4 @@
-# Basic SQL
+# **Basic SQL**
 ## 1. SQL Syntax
 ```sql
 SELECT column1, column2
