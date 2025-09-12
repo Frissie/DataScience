@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "10-19 Data Analysis/12 Python/Pandas.md",
+                "file": "PuppyChecklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pandas"
+              "title": "PuppyChecklist"
             }
           }
         ]
@@ -166,7 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,8 +183,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "10-19 Data Analysis/12 Python/12 Python.md",
+    "PuppyChecklist.md",
+    "PuppyChecklist.md.txt",
     "10-19 Data Analysis/12 Python/Pandas.md",
+    "10-19 Data Analysis/12 Python/12 Python.md",
     "10-19 Data Analysis/11 SQL/11 SQL.md",
     "20-29 Data Science/DA To DS.md",
     "10-19 Data Analysis/13 Power BI/13 Power BI.md",
@@ -203,7 +205,6 @@
     "Welcome/Welcome.md",
     "00-09 Home",
     "Welcome",
-    "Test.base",
     "create a link.md",
     "Untitled.canvas"
   ]
