@@ -61,3 +61,16 @@
 - [x] Portable water & food bowls
 - [ ] Blanket or mat for car
 - [ ] Travel bag *(optional)*
+
+## Questions
+##### Jeanet
+1. Which type of brushes do we need to get?
+2. Is dog health insurance worth it or do you have any other suggestions?
+3. how to safely carry the dog in the car? 
+	1. Harnass, Crate, Anhything else
+	2. Any brands and suggestions
+4. What nail clippers are easier or better in use?
+
+##### Vet
+1. What health care products do you recommend?
+2. How often should be come on medical check?
